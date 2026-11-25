@@ -1,0 +1,10 @@
+site_name: "Attorney Website Advertising Rules Notes"
+site_description: "Plain-language notes on how state bar advertising rules apply to law firm websites, by Legal Web Agency."
+site_author: Legal Web Agency
+site_url: https://attorney-website-advertising-rules-notes.readthedocs.io/
+theme:
+  name: readthedocs
+nav:
+  - "Attorney Website Advertising Rules Notes": index.md
+markdown_extensions:
+  - tables
